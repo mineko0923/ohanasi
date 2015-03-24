@@ -1,2 +1,2 @@
 # ohanasi
-ohanasi用のやつ
+-どうやらCSSはgitに置いても反映されないようです。
